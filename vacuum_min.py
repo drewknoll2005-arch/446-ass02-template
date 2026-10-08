@@ -420,3 +420,9 @@ for action in plan:
 
 print("Final state:", state)
 print("Goal reached:", problem.is_goal(state))
+
+## Andrew Knoll
+## CSCI 112 Fall 2026
+## Programming Assignment #2
+## I declare that I am the author of this work, take full responsibility for it, and have disclosed any material external assistance.
+## I used ChatGPT to help me to figure out my debug issues and guidence with figuring out my implementation of how to keep vacuum showing while not over-riding the underlying dirty clean layerc
